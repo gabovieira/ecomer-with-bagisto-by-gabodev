@@ -140,3 +140,4 @@ Para más detalles sobre cada módulo, ver la documentación específica en `con
 El punto de entrada de la aplicación es `public/index.php`, que carga el autoloader de Composer y arranca la aplicación Laravel.
 
 
+

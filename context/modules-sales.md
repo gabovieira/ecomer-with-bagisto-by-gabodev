@@ -395,3 +395,4 @@ Sales proporciona datos para reportes:
 Los reportes se gestionan en el módulo Admin.
 
 
+

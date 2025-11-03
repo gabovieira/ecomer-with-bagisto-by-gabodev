@@ -302,3 +302,4 @@ Core define las convenciones del sistema en `CoreConvention`:
 Estas convenciones son seguidas por todos los módulos.
 
 
+

@@ -323,3 +323,4 @@ Bagisto Marketplace ofrece extensiones para:
 Para integrar nuevos métodos, seguir la estructura del módulo PayPal.
 
 
+

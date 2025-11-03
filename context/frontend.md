@@ -344,3 +344,4 @@ Esta arquitectura híbrida permite:
 - Server-side rendering de datos iniciales
 
 
+
